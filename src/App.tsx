@@ -10,7 +10,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router basename="/online-budgeting-tool">
+    <Router basename="/online-budgeting-tool-milestone4">
       <Header /> {/* Header component with navbar */}
       <Routes>
         <Route path="/" element={<Home />} /> {/* Home page */}

@@ -2,7 +2,7 @@
   "name": "online-budgeting-tool",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://bobogmu.github.io/online-budgeting-tool",
+  "homepage": "https://bobogmu.github.io/online-budgeting-tool-milestone4",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
